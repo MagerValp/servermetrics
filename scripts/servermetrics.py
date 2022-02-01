@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/munkireport/munkireport-python2
 
 """
 Based on script by CCL Forensics

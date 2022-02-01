@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/munkireport/munkireport-python2
 
 """
 Copyright (c) 2012, CCL Forensics
